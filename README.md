@@ -1,21 +1,7 @@
-<center> <!-- I know, right! -->
-<table>
-<tbody>
-<thead><tr><td colspan=3>
-</span>
-</td></tr></thead>
-<tr class="odd">
-<td style="text-align: center;"><a href="https://github.com/fredrikfoss/zet">Zettelkasten (Notes)</a></td>
-<td style="text-align: center;"><a href="https://github.com/fredrikfoss/cv">Curriculm Vitae (Resume)</a></td>
-<td style="text-align: center;"><a href="mailto:fredrikfoss@fr.urbanpets.no">Contact me</a></td>
-</tr>
-</tbody>
-</table>
+### About me:
 
-----
-
-### Hi there 👋
-
-🏢 Currently studying at [University of Oslo](https://github.com/unioslo)  
-🎓 *Informatics: Robotics and Intelligent Systems (B.Sc.)*  
-📫 Reach me at [fredrikfoss@fr.urbanpets.no](mailto:fredrikfoss@fr.urbanpets.no)  
+* 🏛️ Currently student at [University of Oslo](https://www.uio.no/english/)
+* 🎓 Enrolled in *Informatics: Robotics and Intelligent Systems (B.Sc.)*  
+* 📫 Reach me at [fredrikfoss@fr.urbanpets.no](mailto:fredrikfoss@fr.urbanpets.no)  
+* My GPG key ID: `3A0536C19C0E1CF4`
+* My SSH public key: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINWdK+v0T9A8IhQTvCdgAvgNkUYYp4TmKgMdkyPbrzgn`
